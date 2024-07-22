@@ -32,8 +32,7 @@ Object-Oriented-Programming
   ✉️ Email: jeanjesus2501@gmail.com
   📫 LinkedIn: https://www.linkedin.com/in/jean-nounon-abiad-/
 
-
-##            ![github-snake-dark](https://github.com/Jean-Abiad/Jean-abiad/assets/116680148/e445499e-19cc-4260-a20a-c63d99b28a89)
+##    ![github-snake-dark](https://github.com/Jean-Abiad/Jean-abiad/assets/116680148/e445499e-19cc-4260-a20a-c63d99b28a89)
 
 
 
