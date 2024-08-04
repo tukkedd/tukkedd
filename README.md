@@ -14,7 +14,7 @@ I am a Full Stack Developer eager to keep improving and learning new technologie
  ![NextJS](https://img.shields.io/badge/-Next.Js-333333?style=flat&logo=next.js)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
- ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
+ ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCSS&logoColor=CE6B9E)
