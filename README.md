@@ -14,7 +14,7 @@ I am a Full Stack Developer eager to keep improving and learning new technologie
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
+  ![Taildwind](https://img.shields.io/badge/-Taildwind-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 |
