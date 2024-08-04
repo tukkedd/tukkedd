@@ -1,6 +1,6 @@
-# Hi coder 👋, Im Jean <img src=https://github-production-user-asset-6210df.s3.amazonaws.com/153769958/351564254-207739e0-b463-4e27-ac9e-e33927cb5074.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240804T225120Z&X-Amz-Expires=300&X-Amz-Signature=4e5d0efae7fb63406342763e0a7c41378fac812e8c7db4d10e9a5d98288afb31&X-Amz-SignedHeaders=host&actor_id=153769958&key_id=0&repo_id=831903410>
+# Hi coder 👋, Im Jean ![gif](https://github.com/user-attachments/assets/207739e0-b463-4e27-ac9e-e33927cb5074)
 ## 🦈Full-Stack Developer
-![Full-Stack Developer] (https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Full-Stack Developer](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ## 🪁About Me
 I am a Full Stack Developer eager to keep improving and learning new technologies, I work hard to overcome weaknesses, I stand out for good practices, good teamwork, problem solving. I am very responsible and dedicated. I look for opportunities to keep learning and applying new technologies along the way! 💥 Ready to write code...
 
