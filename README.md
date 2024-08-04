@@ -1,6 +1,6 @@
 # Hi coder 👋, Im Jean 
 ## 🦈Full-Stack Developer
-![Full-Stack Developer]
+![Full-Stack Developer](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ## 🪁About Me
 I am a Full Stack Developer eager to keep improving and learning new technologies, I work hard to overcome weaknesses, I stand out for good practices, good teamwork, problem solving. I am very responsible and dedicated. I look for opportunities to keep learning and applying new technologies along the way! 💥 Ready to write code...
 
@@ -41,13 +41,11 @@ Object-Oriented-Programming
  
 
  ## Education
-#### Full Stack Software Developer, 4Geeks Academy
+#### Full Stack Software Developer, 4Geeks Academy 
 
-## 🔮 How to reach me: 
+## 🔮 How to reach me:  ![gif](https://github.com/user-attachments/assets/207739e0-b463-4e27-ac9e-e33927cb5074)
   ✉️ Email: jeanjesus2501@gmail.com
   📫 LinkedIn: https://www.linkedin.com/in/jean-nounon-abiad-/
-
-![gif](https://github.com/user-attachments/assets/207739e0-b463-4e27-ac9e-e33927cb5074)
 
 
 
