@@ -23,6 +23,7 @@ I am a Full Stack Developer eager to keep improving and learning new technologie
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 |
 User Stories
