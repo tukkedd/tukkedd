@@ -18,6 +18,7 @@ I am a Full Stack Developer eager to keep improving and learning new technologie
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
 |
 User Stories
