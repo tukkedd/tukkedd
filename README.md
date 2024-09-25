@@ -49,6 +49,7 @@ Object-Oriented-Programming
   📫 LinkedIn: https://www.linkedin.com/in/jean-nounon-abiad-/
 
   ![image](https://github.com/user-attachments/assets/bde080e5-f4a3-455a-833a-7f438d2a8b29)
+  ![tukkedd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tukkedd&theme=nord&hide_border=true)
 
 
 
